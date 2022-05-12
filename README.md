@@ -1,4 +1,4 @@
-<a> href="https://www.instagram.com/kgncodes/">@kgncodes</a>
+<a href="https://www.instagram.com/kgncodes/">@kgncodes</a>
   <p>Projects I shared on Instagram</p>
 
   <h3><a href="https://github.com/KaganAyten/Simple-Unity-Projects/tree/main/ThrowSaber">Throw Saber</a></h3>
